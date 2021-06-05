@@ -23,7 +23,7 @@
 
 ## 🚀 Technologies
 
-This project is built with the following technologies:
+This project was built using the following technologies:
 
 - HTML
 - CSS
